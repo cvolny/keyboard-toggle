@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard Enable
+Icon=/home/me/.keyboard/enable.png
+Exec=/home/me/.keyboard/keyboard-enable.sh
+Path=/home/me/.keyboard
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false

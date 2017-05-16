@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard Disable
+Icon=/home/me/.keyboard/disable.png
+Exec=/home/me/.keyboard/keyboard-disable.sh
+Path=/home/me/.keyboard
+NoDisplay=false
+Categories=Utility;
+StartupNotify=false
+Terminal=false
